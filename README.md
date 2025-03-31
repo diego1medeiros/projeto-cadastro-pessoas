@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/6a2ab0a1-6697-47fe-b6e0-698db06a8e10
 
 - Clone o repositório:
 
-- git clone https://github.com/diego1medeiros/cadastro-de-pessoas
+- git clone https://github.com/diego1medeiros/projeto-cadastro-pessoas/tree/master
 - Navegue até a pasta do projeto:
 
 - cd cadastro-pessoas
